@@ -3,4 +3,4 @@ This repository showcases my one-month SQL preparation for the LeetCode - Crack 
 
 Join me as I solve intricate SQL problems and master key concepts in database management. Together, we will conquer the challenges and unravel the complexities of SQL queries.
 
-Click on this <a href = "https://leetcode.com/studyplan/top-sql-50/" > link </a> for all the question and study plan. 
+Click on this <a href = "https://leetcode.com/studyplan/top-sql-50/" > link </a> LeetCode platform for all the questions and study plan. 
